@@ -3,6 +3,7 @@ public class trial {
 
 	public static void main(String[] args)
 	{
+		//sum of int
 		int a,b,sum;
 		
 		a= 4;
